@@ -4,7 +4,7 @@
 ## Overview
 This project contains the schematic and PCB design for an Arduino Uno R3 with integrated internal memory. The design is created using EasyEDA and incorporates additional features, such as enhanced memory modules for extended storage capabilities. This documentation serves as a guide to understand the components and modules used in the design.
 
-![PCB Design](.Images/image.png)
+![PCB Design](/imagespcb.png)
 
 ## Features
 - **ATmega328P Microcontroller:** Core controller for Arduino Uno functionalities.
